@@ -18,6 +18,8 @@
 #### 📬 Find me at
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ugondu)](https://www.linkedin.com/in/ugondu)
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ugondu/)](https://github.com/ugondu) 
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau&logoColor=white&link=https://public.tableau.com/app/ugochukwu.ndu/ugochukwu.ndu)](https://public.tableau.com/app/ugochukwu.ndu/ugochukwu.ndu)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ugondu)](https://medium.com/@ugondu)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ugondu&layout=compact)](https://github.com/ugondu/github-readme-stats)
