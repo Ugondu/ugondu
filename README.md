@@ -5,7 +5,7 @@ I am skilled in SQL, Python, Power BI, and Tableau for solving complex problems 
 <p>:technologist: When I'm not working, I love learning new things, coding, and improving my skills in various areas, including 🧠 Machine Learning, 📊 Data Science, and 📈 Data Visualization. </p>
 
 🛠️ **Tech Stack**  
-- ![SQL](https://img.shields.io/badge/-SQL-%2300758f) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791) | ![MySQL](https://img.shields.io/badge/-MySQL-%234479a1)  
+- ![SQL](https://img.shields.io/badge/-SQL-%2300758f) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791) ![MySQL](https://img.shields.io/badge/-MySQL-%234479a1)  
 - ![Python](https://img.shields.io/badge/-Python-%233776ab)  
 - ![Power BI](https://img.shields.io/badge/-Power%20BI-%23f2c811)  
 - ![Tableau](https://img.shields.io/badge/-Tableau-%23e97627) 
