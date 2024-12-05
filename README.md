@@ -1,8 +1,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/ugondu/ugondu/master/wave.gif" width="30px">
-<p>I'm Ugo Ndu an experienced professional with a diverse background in healthcare, sales, life sciences, and consultancy.  I am Passionate about leveraging data analytics to uncover insights and drive impactful decisions.  
-I am skilled in SQL, Python, Power BI, and Tableau for solving complex problems and delivering results </p>
+<p>I'm Ugo Ndu an experienced professional with a diverse background in healthcare, sales, life sciences, and consultancy.  I am Passionate about leveraging data analytics to uncover insights and drive impactful decisions.</p>
 
-<p>:technologist: When I'm not working, I love learning new things, coding, and improving my skills in various areas, including 🧠 Machine Learning, 📊 Data Science, and 📈 Data Visualization. </p>
+<p>:technologist: When I'm not working, I love learning new things, coding, and improving my skills in various areas, including 🧠 Machine Learning, 📊 Data Science, and 📈 Data Visualization.</p>
 
 🛠️ **Tech Stack**  
 - ![SQL](https://img.shields.io/badge/-SQL-%2300758f) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791) ![MySQL](https://img.shields.io/badge/-MySQL-%234479a1)  
