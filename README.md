@@ -1,4 +1,5 @@
-# Hello! <img src="https://raw.githubusercontent.com/ugondu/ugondu/master/wave.gif" width="30px">
+# Hello! <img src="https://i.imgur.com/your-wave.gif" width="30px" alt="Waving Hand">
+
 <p>I'm Ugo Ndu an experienced professional with a diverse background in healthcare, sales, life sciences, and consultancy.  I am Passionate about leveraging data analytics to uncover insights and drive impactful decisions.</p>
 
 <p>:technologist: When I'm not working, I love learning new things, coding, and improving my skills in various areas, including 🧠 Machine Learning, 📊 Data Science, and 📈 Data Visualization.</p>
